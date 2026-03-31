@@ -1,0 +1,4 @@
+streamlit
+ffmpeg-python
+faster-whisper
+ollama
